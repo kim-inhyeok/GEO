@@ -43,6 +43,14 @@
     - ##### 게시글 완전 삭제(후) ![image](https://github.com/user-attachments/assets/fb187129-8df4-45d0-b043-266a9eaf8ed2)
     - ##### 게시글 복구(전) ![image](https://github.com/user-attachments/assets/77828b74-69b7-49aa-ba88-755d55266c16)
     - ##### 게시글 복구(후) ![image](https://github.com/user-attachments/assets/82159dd2-fea6-47bf-b600-eb43c2572941)
+    - ##### 파일 업로드 및 추천수 ![image](https://github.com/user-attachments/assets/b7af519d-bd44-4159-9c5c-019cbb200eb8)
+    - ##### 파일 다운로드![image](https://github.com/user-attachments/assets/a095b515-9257-4853-bd84-4d4e988e9719)
+    - ##### 댓글 기능(전) ![image](https://github.com/user-attachments/assets/9eecb52d-688f-4b69-ab55-a564d2f75a32)
+    - ##### 댓글 기능(후) ![image](https://github.com/user-attachments/assets/9dd5b7f1-19a3-4b5c-b15d-c8960e1e6258)
+
+
+
+
 
 
 
