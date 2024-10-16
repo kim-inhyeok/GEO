@@ -1,4 +1,4 @@
-# 그룹웨어 게시판 작성
+![image](https://github.com/user-attachments/assets/62f43ef8-b30d-47b8-b1b5-baca8546e9d2)# 그룹웨어 게시판 작성
 
 ### 게시판 시연 유튜브 채널
 - [https://www.youtube.com/watch?v=BmjdlsGum1w](https://www.youtube.com/watch?v=BmjdlsGum1w)
@@ -31,4 +31,8 @@
 		return resultVo;
 	}
 ```
+
+ - #### 게시판 시연 이미지
+ - ![image](https://github.com/user-attachments/assets/d1772b96-c6d4-4d38-abba-614c437ec8e3)
+
 
