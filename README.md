@@ -33,6 +33,6 @@
 ```
 
  - #### 게시판 시연 이미지
- - ![image](https://github.com/user-attachments/assets/d1772b96-c6d4-4d38-abba-614c437ec8e3)
-
+ - ##### 공지게시판 ![image](https://github.com/user-attachments/assets/d1772b96-c6d4-4d38-abba-614c437ec8e3)
+ - #####
 
